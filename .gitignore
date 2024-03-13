@@ -159,7 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-aclImdb/
-stack_overflow_16k/
 aclImdb_v1.tar.gz/
 stack_overflow_16k.tar.gz/
